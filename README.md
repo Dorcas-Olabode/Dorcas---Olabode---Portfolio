@@ -51,8 +51,8 @@ An individual capstone project analysing the sales performance of a retail store
    *My recommendation:* encourage faster shipping options and review Standard Class delivery costs.
 
 ### Project files
-- [Dashboard (PDF](./
-- [Presentation](
+- [Dashboard (PDF](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/Olabode%20Dorcas%20Project%20orig.pdf)
+- [Presentation](./
 
 ---
 

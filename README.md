@@ -1,5 +1,5 @@
 # Hi, I am Dorcas Olabode 
-a data analytics student at TechAccess Foundation (2026 cohort) and a scholarship recipient. I turn raw data into clear dashboards and business recommendations.
+A data analytics student at TechAccess Foundation (2026 cohort) and a scholarship recipient. I turn raw data into clear dashboards and business recommendations.
 
 ## Tools & Skills
 - **Excel:** data cleaning, data modelling
@@ -53,15 +53,15 @@ An individual capstone project analysing the sales performance of a retail store
 ### Project files
 - [Dashboard (PDF](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/Olabode%20Dorcas%20Project%20orig.pdf)
 - [Presentation](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/OLABODE%20DORCAS%20BLESSING%20PRESENTATION%20UPDATED.pptx)
-- [Dataset] (./
+- [Dataset](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/olabode%20dorcas%20cleaned%20dataset.xlsx)
 
 ---
 
 ## Connect With Me
 - GitHub: [@dorcas-olabode](https://github.com/dorcas-olabode)
 - Email: olabodedorcas2023@gmail.com
-**Files:** [Dashboard PDF](./debbylytics-deluxe-store/Debbylytics-Dashboard.pdf) · [Presentation](./debbylytics-deluxe-store/Debbylytics-Presentation.pptx)
+**Files:** [Dashboard PDF](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/Olabode%20Dorcas%20Project%20orig.pdf) · [Presentation](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/OLABODE%20DORCAS%20BLESSING%20PRESENTATION%20UPDATED.pptx). [dataset](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/olabode%20dorcas%20cleaned%20dataset.xlsx)
 
-## Connect With Me
+
 - GitHub: [@dorcas-olabode](https://github.com/dorcas-olabode)
 - Email: olabodedorcas2023@gmail.com

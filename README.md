@@ -52,7 +52,8 @@ An individual capstone project analysing the sales performance of a retail store
 
 ### Project files
 - [Dashboard (PDF](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/Olabode%20Dorcas%20Project%20orig.pdf)
-- [Presentation](./
+- [Presentation](./https://github.com/Dorcas-Olabode/Dorcas---Olabode---Portfolio/blob/main/OLABODE%20DORCAS%20BLESSING%20PRESENTATION%20UPDATED.pptx)
+- [Dataset] (./
 
 ---
 
